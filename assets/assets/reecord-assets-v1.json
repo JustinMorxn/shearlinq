@@ -28,14 +28,14 @@
     {
       "sourceKeySha256": "0d7a36d196a94aed204af6a597a5126599289c9e698da72456dde435605b2829",
       "relativePath": "jy2MLw_JMJk-0d7a36d196a94aed204af6a597a5126599289c9e698da72456dde435605b2829",
-      "byteLength": 132856,
-      "contentSha256": "501deff486847a230cfa2fbde18e660af3be79db9f6d332179a2022559e71ff1"
+      "byteLength": 132989,
+      "contentSha256": "7073b10ea88826ce73119f2340e7c782551df3e316a1f48ccf06871f8704d16f"
     },
     {
       "sourceKeySha256": "0df42058137b6ff1dc57f8aa6f5bc70617e1975e4420df6cd285da37bc86b2d5",
       "relativePath": "XjxtBrId4Q4-0df42058137b6ff1dc57f8aa6f5bc70617e1975e4420df6cd285da37bc86b2d5",
-      "byteLength": 132833,
-      "contentSha256": "c6f24bba8093dacab20f5493c2a73ab1067a7d2b43ef7d45d849b284f3f43087"
+      "byteLength": 133031,
+      "contentSha256": "7965b2b2222d961cc68b73ef85064735c713f14336a0fe58975df1636163556b"
     },
     {
       "sourceKeySha256": "0fa8580898ff77e0f57d24717d157cace70cd3e2c4fb8bf90cfd939d849fda9e",
@@ -74,6 +74,12 @@
       "contentSha256": "802b7b8782572df5c96ac3e5f24860997c95ddec68fc31b3f5cb0e94c5fde9e7"
     },
     {
+      "sourceKeySha256": "15d9fe5f5249c853efebbc88702d05ff3cf1b655f7c62c4ecc69766c36dd473c",
+      "relativePath": "charles-manson-manson-15d9fe5f5249c853efebbc88702d05ff3cf1b655f7c62c4ecc69766c36dd473c.gif",
+      "byteLength": 3744585,
+      "contentSha256": "f4b2bfaeb0a69c0295ff508735b416015efebddba2532a8aba32adb67c277211"
+    },
+    {
       "sourceKeySha256": "168c5ce04f652a71df69409ed6450c5acb25e7a52dffb34f4fdfa136fec030f8",
       "relativePath": "1f602-168c5ce04f652a71df69409ed6450c5acb25e7a52dffb34f4fdfa136fec030f8.svg",
       "byteLength": 1668,
@@ -88,8 +94,8 @@
     {
       "sourceKeySha256": "18d86af27f2565c9af524559fc4bc2ad443b9ab01f95239b5b740d26888ba2b8",
       "relativePath": "wLdlw46Ru9I-18d86af27f2565c9af524559fc4bc2ad443b9ab01f95239b5b740d26888ba2b8",
-      "byteLength": 132826,
-      "contentSha256": "fdfe08fe9bc0e4e6cf52745d183648609b7856d4a0c812168bcc30f9ef59f661"
+      "byteLength": 132839,
+      "contentSha256": "fc050da782bf65356259b1294c0e40f62801927de150efdc17a4ff625d0acd7a"
     },
     {
       "sourceKeySha256": "1a1bfcb4e1581b97cc0278ccbdece4f32720985bad9ccae586d615f90f3a6d94",
@@ -112,8 +118,8 @@
     {
       "sourceKeySha256": "1e47256af4818f382bb0de67411b4f91e51ee44683e3f6f147835f497bdbee85",
       "relativePath": "vecP5hq0B50-1e47256af4818f382bb0de67411b4f91e51ee44683e3f6f147835f497bdbee85",
-      "byteLength": 132453,
-      "contentSha256": "8f58848ce1c62d10324c51ea5cdec5aef3e7c26abafa030ee85f92dc421a8548"
+      "byteLength": 132860,
+      "contentSha256": "4024ec4000b7611eda7cf7dd14727b7cf0e827b41c045264989073fd336cfa6e"
     },
     {
       "sourceKeySha256": "1e64e841973a4ea4b58673482060a26d1a8cd7b3e469b34ecc000085c5f0a930",
@@ -238,8 +244,8 @@
     {
       "sourceKeySha256": "3d8ee101c47d6cef8bb61390325171df6a3945d045f620b00415074c8ffc7f52",
       "relativePath": "T7Ax8hpQEsY-3d8ee101c47d6cef8bb61390325171df6a3945d045f620b00415074c8ffc7f52",
-      "byteLength": 132630,
-      "contentSha256": "b74399f3a0b5e79621f797daab34ee8366810f4e2e8ebfd26c8fccd8f53faa2a"
+      "byteLength": 132756,
+      "contentSha256": "5052a0c019f85dafa9f9d5b3688447cf4143f5456a22165cc6012ef369344a24"
     },
     {
       "sourceKeySha256": "417d20e354e56ecc3ed694c07e42cc748523bc67c3ec070b85f7715050012a4d",
@@ -382,8 +388,8 @@
     {
       "sourceKeySha256": "6c46cb84f18f33f029a3c339a1b2102b5156f8e51e91c25c53066f1c16e84e3d",
       "relativePath": "5HsfaBH4Ylo-6c46cb84f18f33f029a3c339a1b2102b5156f8e51e91c25c53066f1c16e84e3d",
-      "byteLength": 132675,
-      "contentSha256": "a1afb73cf3fb6b48483d110aa63330f7ec97305fe51b1fbf8c898784d4146435"
+      "byteLength": 132691,
+      "contentSha256": "8f2aee2ee7a988c735adf649b18002c4d8a601ffa83620cd1996e7a48724a715"
     },
     {
       "sourceKeySha256": "6c7db4fe1238cda079e10c602b18ceeb7995191b1bbe45c344463a08729e4925",
@@ -406,8 +412,8 @@
     {
       "sourceKeySha256": "6fcfc10eb5716e96418886c442d4ffd58d5107728bdd92d67a42c8161e5a0685",
       "relativePath": "Dd4cDuZklGE-6fcfc10eb5716e96418886c442d4ffd58d5107728bdd92d67a42c8161e5a0685",
-      "byteLength": 132584,
-      "contentSha256": "cd7b454f34f4ab843cee2b5404d427a9308cc1edcb36fe1f012616558e29b584"
+      "byteLength": 133246,
+      "contentSha256": "103c486cc8717e75c32154899531dff73297eafcba672d48ad09111815627035"
     },
     {
       "sourceKeySha256": "76c8f9736cc7b9b3d19dfe71b06a9b92fd7cbd9cbfc570f03038c3086aeeb2cc",
@@ -436,8 +442,8 @@
     {
       "sourceKeySha256": "7c7d42165ceeacbc3201cb87a91d823c4feb228d8af4d5162ba6fabe663e58a0",
       "relativePath": "8rvZSm2dXMg-7c7d42165ceeacbc3201cb87a91d823c4feb228d8af4d5162ba6fabe663e58a0",
-      "byteLength": 132615,
-      "contentSha256": "c00f040a61e92dcf78c5a23ed138ef7abc30a1adf257ce5f977bb4ab491d3d66"
+      "byteLength": 132907,
+      "contentSha256": "0bd2891adda21338c20afa35dad80770948831ed2cebe0d7e043dbd7934a7ebb"
     },
     {
       "sourceKeySha256": "7caded9f925d07f1673363bdcdcf119bcca95f4aeab4b960b5a52dbaf040dec9",
@@ -496,8 +502,8 @@
     {
       "sourceKeySha256": "941d69703da9e5cf7b388abbc76d0c9cfdfcee51e342b0f32247020dced6d85d",
       "relativePath": "DspoN0fKAYs-941d69703da9e5cf7b388abbc76d0c9cfdfcee51e342b0f32247020dced6d85d",
-      "byteLength": 132668,
-      "contentSha256": "b440d44826b3aa8b43b9d2eb1470b665afd3cbc1d0cfbe9fe02f0df11c1b1a9b"
+      "byteLength": 133020,
+      "contentSha256": "2ef630b4c7f0216a2c51820a9556771fbfdb92e25c7f80df0d801999f8e36506"
     },
     {
       "sourceKeySha256": "94b52ba3a2ef7eef17d1e9e9feebc0e5c276abbfaa92c9a2b407e1c6f150ec9b",
@@ -788,6 +794,12 @@
       "contentSha256": "a1b0947c5244964c724f2b848f062352d38ce8a2ee5dc320bce5fab4a6c8bc79"
     },
     {
+      "sourceKeySha256": "e24e05a3fed8742de849fc324d22a0bdcc06ddbf666443d4797f49c6891e2b16",
+      "relativePath": "image-e24e05a3fed8742de849fc324d22a0bdcc06ddbf666443d4797f49c6891e2b16.png",
+      "byteLength": 479071,
+      "contentSha256": "2688301171acfe93083f5f478d4c58fbf91e0e93deeafdd2f15f883a2b7edfda"
+    },
+    {
       "sourceKeySha256": "e25d7d2c355fcc3f84ae3ec3aa8343705e5bc669b248d9cf3c2732e054758aea",
       "relativePath": "maxresdefault-e25d7d2c355fcc3f84ae3ec3aa8343705e5bc669b248d9cf3c2732e054758aea.jpg",
       "byteLength": 57649,
@@ -884,12 +896,6 @@
       "contentSha256": "69d27272051d8533a70f307f84a710ad86415a598381e6954871e92833c18ccb"
     },
     {
-      "sourceKeySha256": "fc2f4691053316d7f1b18f9c0d10f3af39188303bd147ca1847197766265e366",
-      "relativePath": "image-fc2f4691053316d7f1b18f9c0d10f3af39188303bd147ca1847197766265e366.png",
-      "byteLength": 222918,
-      "contentSha256": "820111e10abb406e7ee7af0c2fad08c83cc25af2c9d065a2b9032c1d8f334a0f"
-    },
-    {
       "sourceKeySha256": "fd8f8069faf259191c8b98b6d51cb168cf3ca8b925cf564542a30289efb08112",
       "relativePath": "image-fd8f8069faf259191c8b98b6d51cb168cf3ca8b925cf564542a30289efb08112.png",
       "byteLength": 122930,
@@ -898,8 +904,8 @@
     {
       "sourceKeySha256": "ff8655b48a1d41c6a9dbddde5910743261747ba67c8549f8920cd8259e561987",
       "relativePath": "0Qfw1wr-oo4-ff8655b48a1d41c6a9dbddde5910743261747ba67c8549f8920cd8259e561987",
-      "byteLength": 132951,
-      "contentSha256": "1fe9407f8146bc8570049194da97df6f9f648511cb7cb6e741a55111705e055d"
+      "byteLength": 132553,
+      "contentSha256": "5dd5fce94bc7369bcdc012428c9f58827fde54c20b79552b678595125ae3e5e6"
     }
   ]
 }
