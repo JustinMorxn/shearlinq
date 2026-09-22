@@ -16,8 +16,141 @@
     "after": null,
     "before": null
   },
-  "exportedAt": "2026-09-21T19:20:56.7030137-07:00",
+  "exportedAt": "2026-09-21T21:28:13.8154064-07:00",
   "messages": [
+    {
+      "id": "1551783740307410954",
+      "type": "Reply",
+      "timestamp": "2026-09-21T19:34:34.437-07:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# - || __https://getupnote.com/share/notes/cYelz0JT9MOiqBCPFHacKFEH3u93/019ed38d-2605-724f-950d-6cffb2524a7c__ ||\n# - https://imgur.com/a/gAougcN",
+      "author": {
+        "id": "529194299447836673",
+        "name": "mad_season",
+        "discriminator": "0000",
+        "nickname": "\uD80C\uDEBD \uD83C\uDF51 James'\uD83D\uDC41⃤\uD80C\uDC80Season \uD83C\uDF08 \uD80C\uDEBD",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "assets\\34f341af9cc18744ea560b8d7e9ae017-380cafe34d3a80b9112c64486cd4ca242144ea6344280a700d9af27f9baaee37.png"
+      },
+      "attachments": [
+        {
+          "id": "1551783738533216326",
+          "url": "assets\\image-a7adc9c17e6ade841c82947927b98fdbfafed50ca7e8681b57e48f01bc1d5010.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 1641528
+        },
+        {
+          "id": "1551783738994851870",
+          "url": "assets\\image-1e64e841973a4ea4b58673482060a26d1a8cd7b3e469b34ecc000085c5f0a930.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 247449
+        }
+      ],
+      "embeds": [
+        {
+          "title": "INCIVIK, iime/JUDAS/Gayvin, AND Kippoth3Hippo \"DiD\" 7⧹11!?!",
+          "url": "https://imgur.com/a/gAougcN",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "assets\\D3oZAygh-47fe7e40ecfd2d04389ee4c4884890bae8f4f440cf921fcf1d2b5084946bf1d5.jpg",
+            "canonicalUrl": "https://i.imgur.com/D3oZAygh.jpg",
+            "width": 1024,
+            "height": 633
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1551521314341265448",
+        "channelId": "910904787959181342",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1551781920508088340",
+      "type": "Reply",
+      "timestamp": "2026-09-21T19:27:20.563-07:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "- they were links to conversation logs with various people, if you're interested in ppo drama, or no someone who is feel free to send/read them, dx\n# - __https://justinmorxn.github.io/shearlinq__\n- im curious, why did you decide to add me yesterday?",
+      "author": {
+        "id": "529194299447836673",
+        "name": "mad_season",
+        "discriminator": "0000",
+        "nickname": "\uD80C\uDEBD \uD83C\uDF51 James'\uD83D\uDC41⃤\uD80C\uDC80Season \uD83C\uDF08 \uD80C\uDEBD",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "assets\\34f341af9cc18744ea560b8d7e9ae017-380cafe34d3a80b9112c64486cd4ca242144ea6344280a700d9af27f9baaee37.png"
+      },
+      "attachments": [
+        {
+          "id": "1551781916514979943",
+          "url": "assets\\image-ac0328b43e2340fddf1102abece719dd6e652dc05c0c36faf632e6e1c8e8f3c8.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 78752
+        },
+        {
+          "id": "1551781917722943538",
+          "url": "assets\\image-8b697a1ce017223a6250cececf726e97c226b7b5e80442d9d6387397dce064af.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 88809
+        },
+        {
+          "id": "1551781918343954583",
+          "url": "assets\\image-32370678fc1ef1c5407f43eaaed52a4c53564a3c46f417909f8dfe2197b0706b.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 93181
+        },
+        {
+          "id": "1551781919027367966",
+          "url": "assets\\image-917fefdffdbc980bc5f05a37e2e4c02902cf9beffe8bdd6dfbf46da88468d9fa.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 89794
+        },
+        {
+          "id": "1551781919723749416",
+          "url": "assets\\image-f2f66c79f7d11985dd4be258019c7f06b7c811bb8ae0c8c0eb971bf95a462a88.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 89794
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "446297403104952322",
+          "name": "shearlinq",
+          "discriminator": "0000",
+          "nickname": "shearlinq.hl",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "assets\\a708f041a45923fb535951e7079a55b7-1a1bfcb4e1581b97cc0278ccbdece4f32720985bad9ccae586d615f90f3a6d94.png"
+        }
+      ],
+      "reference": {
+        "type": "Default",
+        "messageId": "1551525347269283931",
+        "channelId": "910904787959181342",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
     {
       "id": "1551721637617999944",
       "type": "Reply",
@@ -672,44 +805,6 @@
       "stickers": [],
       "reactions": [],
       "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1551522708838416507",
-      "type": "Reply",
-      "timestamp": "2026-09-21T02:17:19.685-07:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "```brainfuck\n\n⋰⋱⋰⋱⋰⋱⋰ \n⋰⋱⋰⋱⋰⋱⋰ \n⋰⋱⋰⋱⋰⋱⋰ \n```\n\n\n\nExplanations:\n\n    https://iammagggooo.netlify.app\n    https://justinmorxn.github.io/Ressurr...\n    https://justinmorxn.github.io/Felix\n    https://justinmorxn.github.io/EAU\n    https://justinmorxn.github.io/SuperJo...\n    https://justinmorxn.github.io/GalaxyMist\n    https://sarthak6.netlify.app\n    https://bwalk3r97.netlify.app\n    https://divinemad.netlify.app\n\n\n⋰⋱⋰⋱⋰⋱⋰ \n\nMisc.\n\n    || https://AnubisISIS.netlify.app ||\n    - https://imgur.com/a/abstar1236-chaosm... - -\n\n\n⋰⋱⋰⋱⋰⋱⋰ \n\nNoragami Gaming\n\nhttps://couck3.netlify.app\n\n    https://laz3d.netlify.app\n    https://smoog3.netlify.app\n    https://allmightysusan3.netlify.app\n    https://mystl3tainn3.netlify.app",
-      "author": {
-        "id": "529194299447836673",
-        "name": "mad_season",
-        "discriminator": "0000",
-        "nickname": "\uD80C\uDEBD \uD83C\uDF51 James'\uD83D\uDC41⃤\uD80C\uDC80Season \uD83C\uDF08 \uD80C\uDEBD",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "assets\\34f341af9cc18744ea560b8d7e9ae017-380cafe34d3a80b9112c64486cd4ca242144ea6344280a700d9af27f9baaee37.png"
-      },
-      "attachments": [
-        {
-          "id": "1551522707533865041",
-          "url": "assets\\image-fc2f4691053316d7f1b18f9c0d10f3af39188303bd147ca1847197766265e366.png",
-          "fileName": "image.png",
-          "fileSizeBytes": 222918
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "reference": {
-        "type": "Default",
-        "messageId": "1551521073672232991",
-        "channelId": "910904787959181342",
-        "guildId": null
-      },
       "inlineEmojis": []
     },
     {
@@ -6648,5 +6743,5 @@
       "inlineEmojis": []
     }
   ],
-  "messageCount": 194
+  "messageCount": 195
 }
